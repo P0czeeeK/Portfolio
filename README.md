@@ -21,7 +21,7 @@ I am a young up-and-coming developer specialising in application development mai
 - Python
 
 ## 📂 Projects
-- [MySite](https://p0czeeek.github.io/My_portfolio/)
+- [MySite](https://p0czeeek.github.io/Portfolio/)
 - [Blog](https://github.com/P0czeeeK/blog)
 
 ## 📫 Contact
